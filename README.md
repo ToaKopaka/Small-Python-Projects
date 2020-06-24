@@ -1,2 +1,2 @@
-# First-Try
-This is a test
+# Small Python Projects
+Just a place to put my small tests and ideas
